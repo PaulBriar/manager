@@ -3,6 +3,7 @@
     "wesbos"
   ],
   "rules": {
-    "no-use-before-define": 0
+    "no-use-before-define": 0,
+    "react/prop-types": 0
   }
 }
